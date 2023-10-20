@@ -1,0 +1,15 @@
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+.UXUIDesign img{
+    width:33%;
+}
+.frontend img{
+    width:33%;
+}
+.branding img{
+    width:33%;
+}
