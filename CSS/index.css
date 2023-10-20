@@ -4,12 +4,33 @@
     margin-left: auto;
     margin-right: auto;
 }
+li{
+    list-style-type: none;
+}
+.UXUIcontent{
+    text-align: center;
+}
 .UXUIDesign img{
     width:33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.frontendcontent{
+    text-align: center;
 }
 .frontend img{
     width:33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.brandingcontent{
+    text-align: center;
 }
 .branding img{
     width:33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
