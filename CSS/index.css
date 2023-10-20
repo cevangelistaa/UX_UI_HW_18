@@ -34,3 +34,6 @@ li{
     margin-left: auto;
     margin-right: auto;
 }
+.workGrid{
+    display: grid;
+}
