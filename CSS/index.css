@@ -36,4 +36,8 @@ li{
 }
 .workGrid{
     display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.redesigns img{
+    width: 500px;
 }
