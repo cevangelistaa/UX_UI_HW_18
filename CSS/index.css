@@ -4,40 +4,83 @@
     margin-left: auto;
     margin-right: auto;
 }
+h1{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 li{
     list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .UXUIcontent{
     text-align: center;
 }
 .UXUIDesign img{
-    width:33%;
+    width: 33%;
+    height: auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 .frontendcontent{
     text-align: center;
 }
 .frontend img{
     width:33%;
+    height: auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 .brandingcontent{
     text-align: center;
 }
 .branding img{
     width:33%;
+    height: auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 .workGrid{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 .redesigns img{
-    width: 500px;
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.AIATSIS img{
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.Solefitimg img{
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.Solefitimg{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.AIATSIS{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.redesigns{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
