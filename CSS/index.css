@@ -7,6 +7,8 @@
 h1{
     font-size: 36px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #800020;
+    text-align: center;
 }
 h2{
     font-size: 24px;
@@ -15,6 +17,9 @@ h2{
 p{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    text-align: center;
 }
 li{
     list-style-type: none;
@@ -55,10 +60,10 @@ li{
     grid-template-columns: 1fr 1fr;
 }
 .redesigns img{
-    width: 300px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+   width: 300px;
+   height: auto;
+   display: block;
+   margin: 0 auto;
 }
 .AIATSIS img{
     width: 300px;
@@ -83,4 +88,20 @@ li{
 .redesigns{
     margin-top: 20px;
     margin-bottom: 20px;
+}
+button{
+    background-color: #800020;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #AF565B;
+    color: white;
 }
