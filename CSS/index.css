@@ -7,7 +7,7 @@
 h1{
     font-size: 36px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #800020;
+    color: #af566b;
     text-align: center;
 }
 h2{
@@ -60,19 +60,19 @@ li{
     grid-template-columns: 1fr 1fr;
 }
 .redesigns img{
-   width: 300px;
+   width: 200px;
    height: auto;
    display: block;
    margin: 0 auto;
 }
 .AIATSIS img{
-    width: 300px;
+    width: 200px;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 .Solefitimg img{
-    width: 300px;
+    width: 200px;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -90,7 +90,7 @@ li{
     margin-bottom: 20px;
 }
 button{
-    background-color: #800020;
+    background-color: #af565b;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -102,32 +102,6 @@ button{
     cursor: pointer;
 }
 button:hover{
-    background-color: #AF565B;
+    background-color: #B47B7F;
     color: white;
-}
-@media only screen and (max-width: 600){
-    .flexContainer{
-        display: flex;
-        flex-direction: column;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .UXUIDesign img{
-        width: 100%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-    }
-    .frontend img{
-        width:100%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-    }
-    .branding img{
-        width:100%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-    }
 }
