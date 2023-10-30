@@ -105,3 +105,29 @@ button:hover{
     background-color: #AF565B;
     color: white;
 }
+@media only screen and (max-width: 600){
+    .flexContainer{
+        display: flex;
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .UXUIDesign img{
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+    .frontend img{
+        width:100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+    .branding img{
+        width:100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+}
